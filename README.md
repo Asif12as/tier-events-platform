@@ -1,4 +1,4 @@
-# Tier-Based Event Showcase Platform
+ # Tier-Based Event Showcase Platform
 
 A modern web application built with Next.js, Clerk authentication, and Supabase that demonstrates tier-based access control for exclusive events.
 
